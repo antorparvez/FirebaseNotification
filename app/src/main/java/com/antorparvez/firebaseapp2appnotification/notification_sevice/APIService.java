@@ -9,7 +9,7 @@ public interface APIService {
     @Headers(
             {
                     "Content-Type:application/json",
-                    "Authorization:key=AAAAgzuocUw:APA91bFIeoLPBDzgK8_yROSzdkYfUQxaK2ChfzESeHJDv8ePlvWZuVFTsoMXNPUoEoZXJo8fPX8enwAzcDJyGb4J8C-lt2O6pG9P3C-i9txQDhev5jZIIxeafEhmWlGjaJoNzz4vgdcs" // Your server key refer to video for finding your server key
+                    "Authorization:key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" // Your server key refer to video for finding your server key
             }
     )
 
